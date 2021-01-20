@@ -17,7 +17,7 @@
 
 <h1>Cube Faces</h1>
 <figure style="text-align: center;">
-    <img src='output_examples/octahedron.png />
+    <img src='output_examples/octahedron.png'/>
     <figcaption>Figure 3. Cctahedron</figcaption>
 </figure>
 
@@ -25,6 +25,6 @@
 
 <h1>Cube Faces</h1>
 <figure style="text-align: center;">
-    <img src='output_examples/pyramid.png />
+    <img src='output_examples/pyramid.png'/>
     <figcaption>Figure 4. Pyramid</figcaption>
 </figure>
